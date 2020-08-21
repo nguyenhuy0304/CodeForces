@@ -4,3 +4,4 @@ if w in range(1, 101):
         print("Yes")
     else: 
         print("No")
+        print("No")
